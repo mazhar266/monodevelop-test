@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dot-net-mvc", "dot-net-mvc\dot-net-mvc.csproj", "{9012E38A-9A3F-44D6-8C48-CD715AE1E291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dot-net-mvc.Tests", "dot-net-mvc.Tests\dot-net-mvc.Tests.csproj", "{18904A28-783C-420F-9D1C-891E1F0EC53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9012E38A-9A3F-44D6-8C48-CD715AE1E291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9012E38A-9A3F-44D6-8C48-CD715AE1E291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9012E38A-9A3F-44D6-8C48-CD715AE1E291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9012E38A-9A3F-44D6-8C48-CD715AE1E291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18904A28-783C-420F-9D1C-891E1F0EC53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18904A28-783C-420F-9D1C-891E1F0EC53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18904A28-783C-420F-9D1C-891E1F0EC53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18904A28-783C-420F-9D1C-891E1F0EC53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

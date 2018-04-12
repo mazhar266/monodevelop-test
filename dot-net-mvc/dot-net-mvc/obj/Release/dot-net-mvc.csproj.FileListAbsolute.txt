@@ -1,0 +1,1 @@
+/home/mazhar/Projects/DotNet/dot-net-mvc/dot-net-mvc/obj/Release/dot-net-mvc.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{9012E38A-9A3F-44D6-8C48-CD715AE1E291}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.dot-net-mvc PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.dot-net-mvc.Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

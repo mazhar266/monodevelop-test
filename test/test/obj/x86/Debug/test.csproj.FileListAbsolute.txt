@@ -1,0 +1,5 @@
+/home/mazhar/Projects/DotNet/test/test/bin/Debug/test.exe
+/home/mazhar/Projects/DotNet/test/test/bin/Debug/test.pdb
+/home/mazhar/Projects/DotNet/test/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/home/mazhar/Projects/DotNet/test/test/obj/x86/Debug/test.exe
+/home/mazhar/Projects/DotNet/test/test/obj/x86/Debug/test.pdb
